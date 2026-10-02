@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+data/checkpoints/*
+!data/checkpoints/.gitkeep
+data/datasets/*
+!data/datasets/.gitkeep
+data/uploads/*
+!data/uploads/.gitkeep
+data/hospital_ehr.db
