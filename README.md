@@ -1,4 +1,6 @@
-# Multicriteria Transformer — Skeleton code
+# DACN
+
+## Multicriteria Transformer — Skeleton code
 
 Dựng lại bài báo *"Automated Radiographic Report Generation Purely on Transformer:
 A Multicriteria Supervised Approach"* (IEEE TMI 2022). Bộ khung này **chưa cần dataset**
